@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: tunique
+description: "A basic Jekyll theme for businesses"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
